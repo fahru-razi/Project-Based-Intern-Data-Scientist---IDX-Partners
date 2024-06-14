@@ -1,4 +1,4 @@
-# Credit Prediction on Customer Behavior
+# Credit Loan Prediction on Customer Behavior
 
 ## Dataset:
 https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014
